@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&random=false&width=435&lines=Hello%2C+human!)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasgf&show_icons=true&theme=react)
 <!--
 **rasgf/rasgf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
